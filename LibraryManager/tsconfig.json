@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "js",
+    "sourceMap": true,
+    "watch": true
+  },
+  "files": [
+    "app.ts",
+    "./typings/index.d.ts"
+  ]
+}
